@@ -16,7 +16,7 @@ The city has made data from the sensors publically available and is updated on a
 ## Methodology
 Data from individual sensors was gathered via <a href="https://dev.socrata.com/foundry/data.melbourne.vic.gov.au/b2ak-trbp"> City of Melbourne Open Data API</a> interface. As the sensors were installed at different times and there has been intermittent outages at several locations which sometimes lasted for weeks or months, the list of sensors to be used for the project is shortlisted and additional data cleansing was required to deal with the missing data.
 
-The initial aim for the project was to formulate a single generic model that could be applied to all locations. However, it appeared that this strategy may not be feasible as different traffic patterns started to emerge when all sensor locations were investigated based on their traffic volume and by hour of the day and day of the week. Principle Component Analysis (PCA) was used to group the different locations into 3 groups: mix used sites, business sites and leisure sites as summarised in the plots below.
+The initial strategy for the project was to formulate a single generic model that could be applied to all locations. However, it appeared that this strategy may not be feasible as different traffic patterns started to emerge when all sensor locations were investigated based on their traffic volume and by hour of the day and day of the week. Principle Component Analysis (PCA) was used to group the different locations into 3 groups: mix used sites, business sites and leisure sites as summarised in the plots below.
 
 <img src="/images/EDA_groups.png">
 
@@ -25,6 +25,9 @@ Two machine learning techniques were identified as prime candidates due to the t
 ## Findings
 LSTM was initially expected as the best candidate for modelling the time series data set as it would be able to learn from past trends and seasonality, given the large amount of available data and the long training set used. However, despite generating low value of various error calculations (including mean squared error), the predicted traffic behaves more like a sine wave that is not able to detect the intricacies of the hourly and daily variation. In addition, the the forecast also seem to deteriorate further beyond 4 days which fall short of our 7-day target.
 <p>
+Explain SARIMA - what is it - hyper parameters
+<p>
+Explain results of group 1
 <img src="/images/SARIMA_group1.png">
 <p>
 <img src="/images/SARIMA_group2.png">
