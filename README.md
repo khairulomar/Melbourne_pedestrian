@@ -16,5 +16,8 @@ Key files:
 <img src="/images/EDA_groups.png">
 
 ## Findings
+<img src="/images/SARIMA_differencing.png">
 <img src="/images/SARIMA_group1.png">
 <img src="/images/SARIMA_group2.png">
+
+## Recommendations
