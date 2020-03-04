@@ -18,7 +18,7 @@ Data from individual sensors was gathered via <a href="https://dev.socrata.com/f
 
 The initial aim for the project was to formulate a single generic model that could be applied to all locations. However, it appeared that this strategy may not be feasible as different traffic patterns started to emerge when all sensor locations were investigated based on their traffic volume and by hour of the day and day of the week. Principle Component Analysis (PCA) was used to group the different locations into 3 groups: mix used sites, business sites and leisure sites as summarised in the plots below.
 
-<img src="/images/EDA_groups.png" width=80% height=80%>
+<img src="/images/EDA_groups.png" width=50% height=50%>
 
 Two machine learning techniques were identified as prime candidates due to the time series nature of the data and project objective. First strategy for the forecasting model was based on Long Short-Term Memory (LSTM), a recurrent neural network (RNN) and followed by Seasonal Autoregressive Moving Average (SARIMA) model.
 
