@@ -28,9 +28,11 @@ LSTM was initially expected as the best candidate for modelling the time series 
 Explain SARIMA - what is it - hyper parameters
 <p>
 Explain results of group 1
+<p>
 <img src="/images/SARIMA_group1.png">
 <p>
-<img src="/images/SARIMA_group2.png">
+When result is extended to group 2 bla bla as below
 <p>
+<img src="/images/SARIMA_group2.png">
 
-## Recommendations
+## Benefits to stakeholders
