@@ -24,8 +24,10 @@ Two machine learning techniques were identified as prime candidates due to the t
 
 ## Findings
 LSTM was initially expected as the best candidate for modelling the time series data set as it would be able to learn from past trends and seasonality, given the large amount of available data and the long training set used. However, despite generating low value of various error calculations (including mean squared error), the predicted traffic behaves more like a sine wave that is not able to detect the intricacies of the hourly and daily variation. In addition, the the forecast also seem to deteriorate further beyond 4 days which fall short of our 7-day target.
-<img src="/images/SARIMA_differencing.png">
+<p>
 <img src="/images/SARIMA_group1.png">
+<p>
 <img src="/images/SARIMA_group2.png">
+<p>
 
 ## Recommendations
