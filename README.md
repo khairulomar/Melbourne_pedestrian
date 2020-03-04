@@ -8,10 +8,13 @@ Key files:
 2. <a href="https://github.com/khairulomar/Melbourne_pedestrian/blob/master/library.py">Python formulas Jupyter notebook</a>
 1. <a href="https://docs.google.com/presentation/d/1mdEAQ9iz1uUEMc6Xku6apKgG_EvlaO9VxIGmaZn40FA/edit?usp=sharing">Stakeholder presentation in Google Slides</a>
 
-## EDA
+## Introduction
+
+## Project objectives
+
+## Methodology
 <img src="/images/EDA_groups.png">
 
-## SARIMA
-<img src="/images/SARIMA_differencing.png">
+## Findings
 <img src="/images/SARIMA_group1.png">
 <img src="/images/SARIMA_group2.png">
