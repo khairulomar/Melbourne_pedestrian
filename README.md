@@ -14,4 +14,4 @@ Key files:
 ## SARIMA
 <img src="/images/SARIMA_differencing.png">
 <img src="/images/SARIMA_group1.png">
-<img src="/images/ARIMA_group2.png">
+<img src="/images/SARIMA_group2.png">
