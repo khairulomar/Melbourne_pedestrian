@@ -18,12 +18,12 @@ Data from individual sensors was gathered via <a href="https://dev.socrata.com/f
 
 The initial aim for the project was to formulate a single generic model that could be applied to all locations. However, it appeared that this strategy may not be feasible as different traffic patterns started to emerge when all sensor locations were investigated based on their traffic volume and by hour of the day and day of the week. Principle Component Analysis (PCA) was used to group the different locations into 3 groups: mix used sites, business sites and leisure sites as summarised in the plots below.
 
-<img src="/images/EDA_groups.png" width=50% height=50%>
+<img src="/images/EDA_groups.png">
 
 Two machine learning techniques were identified as prime candidates due to the time series nature of the data and project objective. First strategy for the forecasting model was based on Long Short-Term Memory (LSTM), a recurrent neural network (RNN) and followed by Seasonal Autoregressive Moving Average (SARIMA) model.
 
 ## Findings
-LSTM was initially thought as the best candidate for modelling the time series data set as it would be able to learn from past trends and seasonality, given the large amount of available data and the long training set used. However, despite generating low value of various error calculations (including mean squared error), the predicted traffic behaves more like a sine wave that is not able to detect the intricacies of the hourly and daily variation. In addition, the the forecast also seem to deteriorate further beyond 4 days which fall short of our 7-day target.
+LSTM was initially expected as the best candidate for modelling the time series data set as it would be able to learn from past trends and seasonality, given the large amount of available data and the long training set used. However, despite generating low value of various error calculations (including mean squared error), the predicted traffic behaves more like a sine wave that is not able to detect the intricacies of the hourly and daily variation. In addition, the the forecast also seem to deteriorate further beyond 4 days which fall short of our 7-day target.
 <img src="/images/SARIMA_differencing.png">
 <img src="/images/SARIMA_group1.png">
 <img src="/images/SARIMA_group2.png">
