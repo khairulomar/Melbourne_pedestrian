@@ -29,11 +29,11 @@ Explain SARIMA - what is it - hyper parameters
 <p>
 Explain results of group 1. Plots: show only 1 column, not 2
 <p>
-<img src="/images/SARIMA_group1.png">
+<img src="/images/group1.png">
 <p>
 When result is extended to group 2 bla bla as below
 <p>
-<img src="/images/SARIMA_group2.png">
+<img src="/images/group2.png">
 
 ## Benefits to stakeholders
 
@@ -41,4 +41,8 @@ Security, city planning & business opportunities
 <p>
 Explain heat map
 <p>
-Add heatmap here
+<img src="/images/heat_map.png">
+<p>
+Text here
+<p>
+<img src="/images/one_week_plot.png">
