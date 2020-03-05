@@ -41,8 +41,8 @@ Security, city planning & business opportunities
 <p>
 Explain heat map
 <p>
-<img src="/images/heatmap.png">
+<img src="/images/heat_map.png">
 <p>
 Text here
 <p>
-<img src="/images/one_week_plot.png.png">
+<img src="/images/one_week_plot.png">
