@@ -47,6 +47,8 @@ In this project, pedestrian traffic forecast is also visualised in the form of a
   
 ## Business applications
 
+Multiple stakeholders that could benefit from a good pedestrian forecasting system in Melbourne CBD have been identified. This model can also be readily extended to other cities around the world to take advantage of similar benefits as summarized below.
+
 1. To the state police and traffic police: by anticipating busy periods, staffing resources can be allocated appropriately to manage the traffic flow and the potential increase in crime.
 
 2. To security services and the state police: Melbourne has had two terror attacks recently whereby vehicles rammed into pedestrian paths in the CBD. The forecasting model may help to assess risk factors that can be acted upon.
@@ -54,3 +56,5 @@ In this project, pedestrian traffic forecast is also visualised in the form of a
 3. To the city council: by understanding the traffic pattern and projected growth, city planning policies can be formulated to achieve best practice outcomes, including improving public walkability experience and the possibility of turning some streets into pedestrian-only zones.
 
 4. To the business community and property owners: untapped opportunities may emerge from the study, such as identifying new trends in previously under-visited areas of the city centre. A forecasting model would also help the real estate industry to evaluate forecast property price trends in different parts of the city.
+
+5. To the general public: a given day's itinerary can be planned in advance in order to avoid large crowds by anticipating peak periods at specific locations of interest.
