@@ -44,8 +44,13 @@ Below is an example of how pedestrian traffic forecast data can be presented to 
 In this project, pedestrian traffic forecast is also visualised in the form of animated heat map of the CBD which shows traffic pattern at different hour of the day at all sensor locations. This would serve as highly effective method in conveying the information in a quick and meaningful way to most stakeholders.
 <p>
 <img src="/images/heat_map.png">
+  
 ## Business applications
+
 1. To the state police and traffic police: by anticipating busy periods, staffing resources can be allocated appropriately to manage the traffic flow and the potential increase in crime.
+
 2. To security services and the state police: Melbourne has had two terror attacks recently whereby vehicles rammed into pedestrian paths in the CBD. The forecasting model may help to assess risk factors that can be acted upon.
+
 3. To the city council: by understanding the traffic pattern and projected growth, city planning policies can be formulated to achieve best practice outcomes, including improving public walkability experience and the possibility of turning some streets into pedestrian-only zones.
+
 4. To the business community and property owners: untapped opportunities may emerge from the study, such as identifying new trends in previously under-visited areas of the city centre. A forecasting model would also help the real estate industry to evaluate forecast property price trends in different parts of the city.
