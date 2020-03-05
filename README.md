@@ -40,10 +40,10 @@ For the rollout of this project, it was decided that each site is to be trained 
 
 Security, city planning & business opportunities
 <p>
-Explain heat map
+Below is an example of how pedestrian traffic forecast data can be presented to stakeholders, focusing on the hourly variation of a single day and followed by a seven-day view of longer-term view.
 <p>
 <img src="/images/one_week_plot.png">
 <p>
-In this project, pedestrian traffic forecast is also visualised in the form of a heat map of the CBD which creates an animation of traffic pattern at different hour of the day at all sensor locations. This would serve as highly effective method in conveying the information in a quick and meaningful way to most stakeholders.
+In this project, pedestrian traffic forecast is also visualised in the form of animated heat map of the CBD which shows traffic pattern at different hour of the day at all sensor locations. This would serve as highly effective method in conveying the information in a quick and meaningful way to most stakeholders.
 <p>
 <img src="/images/heat_map.png">
