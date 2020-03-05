@@ -20,7 +20,7 @@ The initial strategy for the project was to formulate a single model that could 
 
 <img src="/images/EDA_groups.png">
 
-Two machine learning techniques were identified as prime candidates due to the time series nature of the data to address the project objective. The first strategy for the forecasting model was based on Long Short-Term Memory (LSTM) which a configuration of recurrent neural network (RNN), followed by Seasonal Autoregressive Moving Average (SARIMA) model.
+Two machine learning techniques were identified as the main option due to the time series nature of the data to address the project objective. The first strategy for the forecasting model was based on Long Short-Term Memory (LSTM) which a configuration of recurrent neural network (RNN), followed by Seasonal Autoregressive Moving Average (SARIMA) model.
 
 ## Findings
 **LSTM** was initially expected to be the best candidate for modelling the time series data set as it has the capability to learn from past trends and seasonality, given the large amount of available data and the long training set used. However, despite generating low values of error calculations (including mean squared error), the predicted traffic behaves more like a sine wave that is not able to detect the intricacies of the hourly and daily variation. In addition, the the forecast also seem to deteriorate further beyond four days which falls short of our seven-day target.
@@ -36,7 +36,7 @@ When the generic model is extended to Group 2 sites, the difference can be furth
 <p>
 For the rollout of this project, it was decided that each site is to be trained individually at site level using its own respective group hyperparameters in order to generate the best level of performance. The fact that SARIMA model is relatively fast to train is an added bonus when the model needs to be updated with more recent data in the future.
   
-## Benefits to stakeholders
+## Business applications
 
 Security, city planning & business opportunities
 <p>
@@ -44,6 +44,6 @@ Explain heat map
 <p>
 <img src="/images/one_week_plot.png">
 <p>
-Text here
+In this project, pedestrian traffic forecast is also visualised in the form of a heat map of the CBD which creates an animation of traffic pattern at different hour of the day at all sensor locations. This would serve as highly effective method in conveying the information in a quick and meaningful way to most stakeholders.
 <p>
 <img src="/images/heat_map.png">
