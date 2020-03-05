@@ -1,5 +1,5 @@
 # Pedestrian Traffic Forecasting in Melbourne City Centre
-### by Khairul Omar
+## by Khairul Omar
 
 <img src="/images/pedestrians.png">
 
@@ -30,7 +30,7 @@ Two machine learning techniques were identified as the main option due to the ti
 <p>
 <img src="/images/group1.png">
 <p>
-When the generic model is extended to Group 2 sites, the difference can be further observed below (e.g. sites 9 and 18) as the traffic pattern in business areas behave significantly different to mixed-use location, particularly during weekends and peak commuting hours. From these results, it is concluded that group-level models would not generate the best performance at individual site level due to their individual characteristics that cannot be easily generalized.
+When the generic model is extended to Group 2 sites, the difference can be further observed below (e.g. sites 9 and 18) as the traffic pattern in office areas behave significantly different to mixed-use location, particularly during weekends and peak commuting hours. From these results, it is concluded that group-level models would not generate the best performance at individual site level due to their individual characteristics that cannot be easily generalized.
 <p>
 <img src="/images/group2.png">
 <p>
