@@ -16,7 +16,7 @@ The city has made data from these sensors publically available and is updated on
 ## Project Methodology
 Data from individual sensors was gathered via <a href="https://dev.socrata.com/foundry/data.melbourne.vic.gov.au/b2ak-trbp"> City of Melbourne Open Data API</a> interface. As the length of period and completeness of data varies by location, sample of sensors to be used for the project needed to be shortlisted and additional data cleansing was required to deal with missing data caused by outages.
 
-The initial strategy for the project was to formulate a single model that could be applied to all locations. However, it appeared that this strategy may not be feasible as different traffic patterns started to emerge when all sensor locations were analysed based on their traffic volume, and by hour of the day and day of the week. Principle Component Analysis (PCA) technique was used to group different sensor locations into 3 groups, namely Group 1: Mix-use areas, Group 2: Business areas and Group 3: Leisure areas as summarised in the normalize traffic plots below.
+The initial strategy for the project was to formulate a single model that could be applied to all locations. However, it appeared that this strategy may not be feasible as different traffic patterns started to emerge when all sensor locations were analysed based on their traffic volume, and by hour of the day and day of the week. Principle Component Analysis (PCA) technique was used to group different sensor locations into 3 groups, namely Group 1: Mix-use areas, Group 2: Office areas and Group 3: Leisure areas as summarised in the normalize traffic plots below.
 
 <img src="/images/EDA_groups.png">
 
