@@ -1,5 +1,4 @@
-# Pedestrian Traffic Forecasting in Melbourne City Centre
-### by Khairul Omar [<a href="mailto:khairul.omar@gmail.com">Email</a>] [<a href="https://www.linkedin.com/in/khairulomar/">LinkedIn</a>]
+# Pedestrian Traffic Forecasting in Melbourne City Centre by Khairul Omar
 
 <img src="/images/heat_map_animate.gif">
 
@@ -12,7 +11,7 @@ Key project files:
 Melbourne was voted world's most liveable city for six consecutive years between 2012 and 2017. The city centre, or more commonly referred to as the Central Business District (CBD), takes the shape of a one-mile by half-a-mile core grid that is home to most of the city's businesses. In order to better understand pedestrian traffic in the CBD, numerous sensors were installed at strategic locations all over the city that are designed to count people movements.
 <p>
 The city has made data from these sensors publically available and is updated on an hourly basis. While analysis can readily be done on historical data, there has not been much work on developing forecasting models to predict pedestrian traffic in the city. This project is aimed to address this gap into order to support various stakeholders, including the local government, Victoria State Police and business owners via a seven-day forecasting system.
-
+<p>
 <img src="/images/pedestrians.png">
 
 ## Project Methodology
@@ -57,3 +56,7 @@ Multiple stakeholders that could benefit from a good pedestrian forecasting syst
 4. To the business community and property owners: untapped opportunities may emerge from the study, such as identifying new trends in previously under-visited areas of the city centre. A forecasting model would also help the real estate industry to evaluate forecast property price trends in different parts of the city.
 
 5. To the general public: a given day's itinerary can be planned in advance in order to avoid large crowds by anticipating peak periods at specific locations of interest.
+
+### by Khairul Omar
+<a href="mailto:khairul.omar@gmail.com">Email</a><br>
+<a href="https://www.linkedin.com/in/khairulomar/">LinkedIn</a>
