@@ -1,5 +1,5 @@
 # Pedestrian Traffic Forecasting in Melbourne City Centre
-### by Khairul Omar [<a href="mailto:khairul.omar@gmail.com">Email</a><br>] [<a href="https://www.linkedin.com/in/khairulomar/">LinkedIn</a>]
+### by Khairul Omar [<a href="mailto:khairul.omar@gmail.com">Email</a>] [<a href="https://www.linkedin.com/in/khairulomar/">LinkedIn</a>]
 
 <img src="/images/heat_map_animate.gif">
 
