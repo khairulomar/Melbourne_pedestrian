@@ -43,7 +43,7 @@ Below is an example of how pedestrian traffic forecast data can be presented to 
 <p>
 In this project, pedestrian traffic forecast is also visualised in the form of animated heat map of the CBD which shows traffic pattern at different hour of the day at all sensor locations. This would serve as highly effective method in conveying the information in a quick and meaningful way to most stakeholders.
 <p>
-<img src="/images/heat_map.png">
+<img src="/images/heat_map_animate.gif">
   
 ## Business Applications
 
