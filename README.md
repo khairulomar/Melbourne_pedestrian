@@ -1,7 +1,7 @@
 # Pedestrian Traffic Forecasting in Melbourne City Centre
 ### by Khairul Omar
 
-<img src="/images/pedestrians.png">
+<img src="/images/heat_map_animate.gif">
 
 Key files:
 1. <a href="https://github.com/khairulomar/Melbourne_pedestrian/blob/master/Melbourne_pedestrian.ipynb">Main Jupyter notebook</a>
@@ -12,6 +12,8 @@ Key files:
 Melbourne was voted world's most liveable city for six consecutive years between 2012 and 2017. The city centre, or more commonly referred to as the Central Business District (CBD), takes the shape of a one-mile by half-a-mile core grid that is home to most of the city's businesses. In order to better understand pedestrian traffic in the CBD, numerous sensors were installed at strategic locations all over the city that are designed to count people movements.
 <p>
 The city has made data from these sensors publically available and is updated on an hourly basis. While analysis can readily be done on historical data, there has not been much work on developing forecasting models to predict pedestrian traffic in the city. This project is aimed to address this gap into order to support various stakeholders, including the local government, Victoria State Police and business owners via a seven-day forecasting system.
+
+<img src="/images/pedestrians.png">
 
 ## Project Methodology
 Data from individual sensors was gathered via <a href="https://dev.socrata.com/foundry/data.melbourne.vic.gov.au/b2ak-trbp"> City of Melbourne Open Data API</a> interface. As the length of period and completeness of data varies by location, sample of sensors to be used for the project needed to be shortlisted and additional data cleansing was required to deal with missing data caused by outages.
@@ -42,8 +44,6 @@ Below is an example of how pedestrian traffic forecast data can be presented to 
 <img src="/images/one_week_plot.png">
 <p>
 In this project, pedestrian traffic forecast is also visualised in the form of animated heat map of the CBD which shows traffic pattern at different hour of the day at all sensor locations. This would serve as highly effective method in conveying the information in a quick and meaningful way to most stakeholders.
-<p>
-<img src="/images/heat_map_animate.gif">
   
 ## Business Applications
 
