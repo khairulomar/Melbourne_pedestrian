@@ -1,5 +1,7 @@
 # Pedestrian Traffic Forecasting in Melbourne City Centre
+<div align="right">
 ### by Khairul Omar
+</div>
 
 <img src="/images/heat_map_animate.gif">
 
@@ -59,5 +61,5 @@ Multiple stakeholders that could benefit from a good pedestrian forecasting syst
 5. To the general public: a given day's itinerary can be planned in advance in order to avoid large crowds by anticipating peak periods at specific locations of interest.
 
 ### Khairul Omar
-<a href="mailto:khairul.omar@gmail.com">khairul.omar@gmail.com</a>
+<a href="mailto:khairul.omar@gmail.com">khairul.omar@gmail.com</a><br>
 <a href="https://www.linkedin.com/in/khairulomar/">LinkedIn profile</a>
