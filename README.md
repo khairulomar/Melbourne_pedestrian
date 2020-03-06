@@ -1,5 +1,6 @@
 # Pedestrian Traffic Forecasting in Melbourne City Centre
 ### by Khairul Omar
+<mailto:khairul.omar@gmail.com>
 
 <img src="/images/pedestrians.png">
 
