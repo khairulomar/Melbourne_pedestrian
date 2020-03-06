@@ -3,7 +3,7 @@
 
 <img src="/images/heat_map_animate.gif">
 
-Key files:
+Key project files:
 1. <a href="https://github.com/khairulomar/Melbourne_pedestrian/blob/master/Melbourne_pedestrian.ipynb">Main Jupyter notebook</a>
 2. <a href="https://github.com/khairulomar/Melbourne_pedestrian/blob/master/library.py">Python formulas Jupyter notebook</a>
 1. <a href="https://docs.google.com/presentation/d/1mdEAQ9iz1uUEMc6Xku6apKgG_EvlaO9VxIGmaZn40FA/edit?usp=sharing">Stakeholder presentation in Google Slides</a>
@@ -37,13 +37,12 @@ When the generic model is extended to Group 2 sites, the difference can be furth
 <img src="/images/group2.png">
 <p>
 For the rollout of this project, it was decided that each site is to be trained individually at site level using its own respective group hyperparameters in order to generate the best level of performance. The fact that SARIMA model is relatively fast to train is an added bonus when the model needs to be updated with more recent data in the future.
-  
-## Communication to Stakeholders
+
 Below is an example of how pedestrian traffic forecast data can be presented to stakeholders for a single site, focusing on the hourly variation of a single day and followed by a seven-day view of longer-term needs.
 <p>
 <img src="/images/one_week_plot.png">
 <p>
-In this project, pedestrian traffic forecast is also visualised in the form of animated heat map of the CBD which shows traffic pattern at different hour of the day at all sensor locations. This would serve as highly effective method in conveying the information in a quick and meaningful way to most stakeholders.
+In this project, pedestrian traffic forecast is also visualised in the form of animated heat map of the CBD (shown at the beginning of this page) which displays traffic pattern at different hour of the day at all sensor locations. This would serve as highly effective method in conveying the information in a quick and meaningful way to most stakeholders.
   
 ## Business Applications
 
