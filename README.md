@@ -1,7 +1,5 @@
-# Pedestrian Traffic Forecasting in Melbourne City Centre
-<div align="right">
-### by Khairul Omar
-</div>
+# Pedestrian Traffic Forecasting in Melbourne City Centre<br>
+# by Khairul Omar
 
 <img src="/images/heat_map_animate.gif">
 
