@@ -1,6 +1,5 @@
 # Pedestrian Traffic Forecasting in Melbourne City Centre
 ### by Khairul Omar
-<a href="mailto:khairul.omar@gmail.com">khairul.omar@gmail.com</a>
 
 <img src="/images/pedestrians.png">
 
@@ -59,3 +58,7 @@ Multiple stakeholders that could benefit from a good pedestrian forecasting syst
 4. To the business community and property owners: untapped opportunities may emerge from the study, such as identifying new trends in previously under-visited areas of the city centre. A forecasting model would also help the real estate industry to evaluate forecast property price trends in different parts of the city.
 
 5. To the general public: a given day's itinerary can be planned in advance in order to avoid large crowds by anticipating peak periods at specific locations of interest.
+
+### Khairul Omar
+<a href="mailto:khairul.omar@gmail.com">khairul.omar@gmail.com</a>
+<a href="https://www.linkedin.com/in/khairulomar/">LinkedIn profile</a>
