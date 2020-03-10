@@ -4,9 +4,9 @@
 <img src="/images/heat_map_animate.gif">
 
 ## Key project files:
-1. <a href="https://github.com/khairulomar/Melbourne_pedestrian/blob/master/Melbourne_pedestrian.ipynb">Main Jupyter notebook</a>
+1. <a href="https://nbviewer.jupyter.org/github/khairulomar/Melbourne_pedestrian/blob/master/Melbourne_pedestrian.ipynb?flush_cache=true">Main Jupyter notebook</a>
 2. <a href="https://github.com/khairulomar/Melbourne_pedestrian/blob/master/library.py">Python formulas Jupyter notebook</a>
-1. <a href="https://docs.google.com/presentation/d/1mdEAQ9iz1uUEMc6Xku6apKgG_EvlaO9VxIGmaZn40FA/edit?usp=sharing">Stakeholder presentation in Google Slides</a>
+1. <a href="https://github.com/khairulomar/Melbourne_pedestrian/blob/master/Melbourne_pedestrian.pdf">Stakeholder presentation slides</a>
 
 ## Project Objective
 Melbourne was voted world's most liveable city for six consecutive years between 2012 and 2017. The city centre, or more commonly referred to as the Central Business District (CBD), takes the shape of a one-mile by half-a-mile core grid that is home to most of the city's businesses. In order to better understand pedestrian traffic in the CBD, numerous sensors were installed at strategic locations all over the city that are designed to count people movements.
