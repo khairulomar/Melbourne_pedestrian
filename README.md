@@ -4,7 +4,7 @@
 <img src="/images/heat_map_animate.gif">
 
 ## Key project files:
-1. <a href="https://nbviewer.jupyter.org/github/khairulomar/Melbourne_pedestrian/blob/master/Melbourne_pedestrian.ipynb?flush_cache=true">Main Python codes Jupyter notebook</a>
+1. <b><a href="https://nbviewer.jupyter.org/github/khairulomar/Melbourne_pedestrian/blob/master/Melbourne_pedestrian.ipynb?flush_cache=true">Main Python codes Jupyter notebook</a></b>
 2. <a href="https://github.com/khairulomar/Melbourne_pedestrian/blob/master/library.py">Python formulas library Jupyter notebook</a>
 1. <a href="https://github.com/khairulomar/Melbourne_pedestrian/blob/master/Melbourne_pedestrian.pdf">Stakeholder presentation slides</a>
 
